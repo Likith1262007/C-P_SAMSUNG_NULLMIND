@@ -70,7 +70,7 @@ def analyze_complaint(text):
         "serious injury", "harassment",
         "theft", "danger", "unsafe",
         "gas leak", "building collapse",
-        "water flooding"
+        "water flooding","murder"
     ]
 
     low_priority = [
