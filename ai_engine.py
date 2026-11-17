@@ -42,7 +42,7 @@ def analyze_complaint(text):
         "Safety": [
             "fire", "accident", "security",
             "theft", "harassment", "emergency",
-            "danger", "unsafe", "injury"
+            "danger", "unsafe", "injury","murder"
         ],
 
         "Academic": [
