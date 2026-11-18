@@ -542,6 +542,7 @@ elif page == "Submit Complaint":
                 "Parking Area",
                 "Washroom",
                 "Sports Ground",
+                "Transport",
                 "Other"
             ]
         )
