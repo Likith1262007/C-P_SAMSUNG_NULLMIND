@@ -328,7 +328,7 @@ def load_complaints():
 
         df = complaints.copy()
 
-        if len(df.columns) == 20:
+        if len(df.columns) == 6:
             df.columns = columns
 
         return df
