@@ -431,7 +431,7 @@ if page == "Dashboard":
     if total > 0:
 
         st.dataframe(
-            df.tail(5).iloc[::-1],
+            df.tail(10).iloc[::-1],
             use_container_width=True,
             hide_index=True
         )
